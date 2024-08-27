@@ -1,4 +1,1 @@
 .gitignore
-cv_venv/
-Projects/MNIST/__pycache__/
-Projects/MNIST/Data/
