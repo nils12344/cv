@@ -47,9 +47,9 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-class Net(nn.Module):
+class MNIST_Net(nn.Module):
     def __init__(self):
-        super(Net, self).__init__()
+        super(MNIST_Net, self).__init__()
         self.conv1 = nn.Conv2d(1, 6, 5)  # Von 2 oder 3 auf 1 Kanal ändern
         self.pool = nn.MaxPool2d(2, 2)
         self.conv2 = nn.Conv2d(6, 16, 5)

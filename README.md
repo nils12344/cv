@@ -1,6 +1,6 @@
 # cv
 Computer Vision Projects
-1. cifar.ipynb classification
+1. cifar.ipynb - Classification - Pytorch Tutorial 
     - Code source: https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
     - Dataset: torchvision.datasets.CIFAR10()
     - Model: cnn

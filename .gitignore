@@ -2,3 +2,13 @@
 cv_venv/
 /__pycache__
 /data
+/runs/
+/projects/cifar/__pycache__/
+/projects/cifar/data/
+/projects/cifar/nn/
+/projects/mnist/__pycache__/
+/projects/mnist/data/
+/projects/mnist/nn/
+/projects/traffic_sign/__pycache__/
+/projects/traffic_sign/data/
+/projects/traffic_sign/nn/
